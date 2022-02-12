@@ -1,8 +1,7 @@
 # PlayerSpotify
 
- ![](https://github.com/AronNascimento1/PlayerSpotify/blob/main/assets/playerspotify.gif)
-
-
+<a href="https://aronnascimento1.github.io/PlayerSpotify/"><img src="/assets/playerspotify.gif" width="320px" height="500px"></a><br>
+clique<a href="https://aronnascimento1.github.io/PlayerSpotify/"> aqui </a>para testar o Player
 _________
 🧑‍💻 Clone ou faça o downlod desse repositório:
 
