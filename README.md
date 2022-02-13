@@ -3,7 +3,7 @@
 <a href="https://aronnascimento1.github.io/PlayerSpotify/"><img src="/assets/playerspotify.gif" width="320px" height="500px"></a><br>
 clique<a href="https://aronnascimento1.github.io/PlayerSpotify/"> aqui </a>para testar o Player
 _________
-🧑‍💻 Clone ou faça o downlod desse repositório:
+🧑‍💻 Clone ou faça o download desse repositório:
 
 ```
 # Clone o repositório
